@@ -1,0 +1,4 @@
+dearpygui
+flask
+kivy
+pywebview
